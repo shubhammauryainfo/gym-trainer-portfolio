@@ -1,3 +1,4 @@
+|-- .env
 |-- .gitignore
 |-- bun.lockb
 |-- components.json
