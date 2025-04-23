@@ -9,7 +9,7 @@ const testimonials = [
     role: "IT Professional",
     image: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80",
     stars: 5,
-    text: "Working with Sameer has been transformative. His approach is comprehensive and personalized. I've lost 15 kg in 4 months while gaining significant muscle. The customized nutrition plan made all the difference."
+    text: "Training with Sameer has truly been a game-changer. His method is both holistic and tailored to individual needs. In just 4 months, I’ve shed 15 kg and built noticeable muscle. The personalized nutrition plan played a key role in this transformation."
   },
   {
     id: 2,
